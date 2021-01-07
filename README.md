@@ -1,3 +1,3 @@
 ## InMoDeGAN-Interpretable Motion Decomposition Generative Adversarial Network for Video Generation
 
-<img src="teaser.gif" width="500">
+<img src="teaser.gif" width="1000">
