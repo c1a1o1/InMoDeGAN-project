@@ -1,4 +1,5 @@
 ## InMoDeGAN: Interpretable Motion Decomposition Generative Adversarial Network for Video Generation
+Yaohui Wang, Francois Bremond and Antitza Dantcheva
 ### [Project Page](https://wyhsirius.github.io/InMoDeGAN/)|[Paper](https://arxiv.org/pdf/2101.03049.pdf)
 
 <img src="teaser.gif" width="1000">
